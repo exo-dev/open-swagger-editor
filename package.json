@@ -1,0 +1,18 @@
+{
+  "name": "swagger-edit",
+  "version": "1.0.0",
+  "description": "Opens swagger editor for the file passed as parameter.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Agustin Croce",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "swagger-editor": "^2.10.3",
+    "swagger-editor-server": "^1.0.0"
+  }
+}

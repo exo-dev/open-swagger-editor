@@ -7,9 +7,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/exo-dev/open-swagger-editor"
+  },
+  "bugs": {
+    "url": "https://github.com/exo-dev/open-swagger-editor/issues"
+  },
+  "keywords": ["swagger", "editor", "edit"],
   "author": "Agustin Croce",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "commander": "^2.9.0",
     "swagger-editor": "^2.10.3",

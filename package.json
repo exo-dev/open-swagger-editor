@@ -1,5 +1,5 @@
 {
-  "name": "swagger-edit",
+  "name": "open-swagger-editor",
   "version": "1.0.0",
   "description": "Opens swagger editor for the file passed as parameter.",
   "main": "index.js",
